@@ -33,11 +33,11 @@
 
 ## Exploratory Data Analysis
 1) Find out which genres have the most movies and bar graph top 10 genres by count
- ![image](https://github.com/cycy94777/movie_recommend_models/blob/f147db10716cc79190a4e9f591858c79cd15f767/Image/movie_genre.png)
+ ![image](https://github.com/cycy94777/movie_recommend_models/blob/0ce416f6fd119036a06b5ce26d7f5db992f7b049/Image/movie_genre.png)
 
 
 2) Find out which genres have the highest average rating and bar graph top 10 by genres
- ![image](https://github.com/cycy94777/movie_recommend_models/blob/f147db10716cc79190a4e9f591858c79cd15f767/Image/avg_ratings.png)
+ ![image](https://github.com/cycy94777/movie_recommend_models/blob/0ce416f6fd119036a06b5ce26d7f5db992f7b049/Image/avg_ratings.png)
 
 
 ## Movie Recommender Model
