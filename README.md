@@ -1,7 +1,7 @@
 #### Movie_Recommend_Model
 
 
-### Our Work
+
 ## Data Delivery and ETL: 
 1) Import dependencies
 2) Download the dataset from https://grouplens.org/datasets/movielens. Then, we filter the movie based on their published year which are in or after 2010 and get the rating df according the average rating of each movieId. We also split the title into the movie name and year. 
