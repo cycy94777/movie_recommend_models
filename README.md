@@ -1,27 +1,5 @@
 #### Movie_Recommend_Model
 
-### Project Requirements: Demystifying Ml
-1. Find a problem worth solving, analyzing, or visualizing
-2. Use machine learning (ML) with the technologies we’ve learned.
-3. You must use Scikit-learn and/or another machine learning library.
-4. You must use at least two of the following:
-    1) Python Pandas
-    2) Python Matplotlib
-    3) HTML/CSS/Bootstrap
-    4) JavaScript Plotly
-    5) JavaScript Leaflet
-    6) Tableau
-    7) SQL Database
-    8) MongoDB Database
-    9) Google Cloud SQL
-    10) Amazon AWS
-
-### The requirements for this project are broken into 5 categories:
-    1) Data and data delivery
-    2) Back end (ETL)
-    3) Visualizations
-    4) Group presentations
-    5) Slide deck
 
 ### Our Work
 ## Data Delivery and ETL: 
